@@ -1,0 +1,63 @@
+/*body {
+  background-color: lightblue;
+}*/
+  /*.container-fluid {
+    background-color: lightblue;
+  }*/
+
+div {
+
+    border: 1px blue;
+}
+
+/*div{
+  height: 100px;
+  border: 1px solid pink;
+  margin-bottom: 10px;
+  text-align: center;
+  width: 30%;
+  overflow: hidden;
+}*/
+
+.guideContainer {
+  float: left;
+}
+
+#navBar {
+  box-sizing: border-box;
+  border: 1px;
+}
+  .navDiv {
+    border: 1px blue;
+  }
+
+header {
+  border-color: blue;
+  width: 80%;
+  height: 50px;
+  border: 1px;
+}
+  /*#titleBar {
+    border-color: blue;
+    width: 80%;
+    height: 50px;
+    border: 1px;
+  }*/
+
+/*#midGroup {
+  border-color: blue;
+}*/
+  .leftDiv {
+    border: 1px blue;
+  }
+  .rightDiv {
+    border: 1px blue;
+  }
+
+#tweet {
+
+}
+
+footer {
+
+}
